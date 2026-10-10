@@ -1,0 +1,14 @@
+{
+  "owner": {
+    "username": "Cello-Is",
+    "email": "marceljelz855@gmail.com"
+  },
+  "records": {
+    "A": {
+      "@": "216.198.79.1"
+    },
+    "TXT": {
+      "_vercel": "vc-domain-verify=nerologs.is-a.dev,62d15596f9df16893662"
+    }
+  }
+}
